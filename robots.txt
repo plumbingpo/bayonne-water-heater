@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bayonnewaterheater.com/sitemap.xml
